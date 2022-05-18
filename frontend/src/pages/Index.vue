@@ -9,9 +9,10 @@
 </template>
 
 <script>
-import { defineComponent } from "vue";
+import { defineComponent, onMounted } from "vue";
 
 export default defineComponent({
   name: "IndexPage",
+  setup() {},
 });
 </script>

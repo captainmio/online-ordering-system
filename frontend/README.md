@@ -39,3 +39,9 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+
+
+
+### Flowchart plan for this project
+https://cloud.smartdraw.com/editor.aspx?templateId=da34e096-b9cb-4d56-a0ce-d9bdef138714&nsu=1#depoId=34506882&credID=-38515004
